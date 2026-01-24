@@ -49,7 +49,7 @@ https://github.com/user-attachments/assets/18d83e37-ae57-4b67-b6db-94784bd7c292
 
 
 **데모 시나리오2**
-* 자율주행(CRUISE Mode) → 장애물 회피(DODGE Mode) → 차선변경(SWITCH Mode) → 우회전(TURN Mode) → 자율주행(CRUISE Mode)
+* 자율주행(CRUISE Mode) → 장애물 회피(DODGE Mode) → 차선변경(SWITCH Mode) → 우회전(TURN Mode) → 자율주행(CRUISE Mode) 
 
 
 https://github.com/user-attachments/assets/672401a8-06f7-4d87-94ed-b78adbe5ddbb
